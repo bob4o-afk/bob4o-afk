@@ -1,6 +1,7 @@
-<img src = "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
 <h1 align="center">Hi 👋, I'm Bobinkata</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
+
+<img src = "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bob4o-afk&label=Profile%20views&color=0e75b6&style=flat" alt="bob4o-afk" /> </p>
 
