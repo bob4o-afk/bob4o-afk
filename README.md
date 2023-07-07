@@ -1,3 +1,4 @@
+<img src = "https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
 <h1 align="center">Hi 👋, I'm Bobinkata</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 
